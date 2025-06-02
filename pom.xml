@@ -9,7 +9,7 @@
     <artifactId>amazon-app</artifactId>
     <packaging>jar</packaging>
     <version>1.0-SNAPSHOT</version>
-    <name>amazon-app/name>
+    <name>amazon-app</name>
     <url>http://maven.apache.org</url>
   
     <dependencies> 
