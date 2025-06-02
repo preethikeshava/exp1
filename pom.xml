@@ -5,7 +5,7 @@
     
     <modelVersion>4.0.0</modelVersion>
   
-    <groupId>com.mvit</groupId>
+    <groupId>mvit.com</groupId>
     <artifactId>amazon-app</artifactId>
     <packaging>jar</packaging>
     <version>1.0-SNAPSHOT</version>
@@ -42,7 +42,7 @@
                     <archive> 
                         <manifest> 
                             <addClasspath>true</addClasspath> 
-                            <mainClass>com.mvit.App</mainClass> 
+                            <mainClass>mvit.com.App</mainClass> 
                         </manifest> 
                     </archive> 
                 </configuration> 
